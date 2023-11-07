@@ -6,4 +6,4 @@ This is a product design page for product websites
 3. Javascript
 
 # Follow me on
-Twitter - (@fred_chizim)[https://www.twitter.com/fred_chizim]
+Twitter - [@fred_chizim](https://www.twitter.com/fred_chizim)
